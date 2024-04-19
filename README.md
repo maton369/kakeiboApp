@@ -1,24 +1,32 @@
-# README
+# 家計簿アプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# DEMO
 
-Things you may want to cover:
+画像（予定）
 
-* Ruby version
+# Features
 
-* System dependencies
+Webアプリの仕組みを勉強するために作ったプロトタイプの家計簿アプリです。
+機能面ではCRUD,コーディングではルーティングのリファクタリングをうまく実装できるよう工夫しました。
 
-* Configuration
+# Requirement
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
+# Installation
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+# Usage
+
+https://kakeiboapp-msp3.onrender.com/
+
+# Note
+
+
+
+# Author
+
+maton369
+
+# License
